@@ -1,0 +1,4 @@
+name: BlockHunt
+version: '${project.version}'
+main: com.github.leoooog.blockhunt.BlockHuntPlugin
+api-version: '1.20'
