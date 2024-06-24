@@ -2,7 +2,7 @@ package com.github.leoooog.blockhunt;
 
 import com.github.leoooog.blockhunt.files.ConfigManager;
 import com.github.leoooog.blockhunt.files.MessagesManager;
-import com.github.leoooog.blockhunt.game.GameManager;
+import com.github.leoooog.blockhunt.game.manager.GameManager;
 import org.bukkit.plugin.java.JavaPlugin;
 import org.jetbrains.annotations.NotNull;
 

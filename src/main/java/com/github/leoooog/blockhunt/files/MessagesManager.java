@@ -2,6 +2,7 @@ package com.github.leoooog.blockhunt.files;
 
 import com.github.leoooog.blockhunt.game.GamePlayer;
 import org.apache.commons.lang3.NotImplementedException;
+import org.bukkit.entity.Player;
 
 public class MessagesManager {
 
@@ -42,6 +43,10 @@ public class MessagesManager {
     }
 
     public String getGameStart() {
+        throw new NotImplementedException("Not implemented yet");
+    }
+
+    public String getJoinMessage(Player player) {
         throw new NotImplementedException("Not implemented yet");
     }
 }
